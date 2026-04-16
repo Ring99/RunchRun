@@ -45,5 +45,6 @@
     PlayerPrefs 기반 로컬 저장으로 우승자 히스토리 배열을 저장합니다.  
 
 ## 5. 플레이영상
+https://youtu.be/bbmvc_6U1jc
 
 ## 6. 링크
